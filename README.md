@@ -11,7 +11,7 @@ _Install Free Pascal, compile with `fpc snake.pas` and run snake binary._
 
 ## Author
 
-frin ([@andrejst](https://twitter.com/andrejst))
+frin ([@frin](https://github.com/frin))
 
 ## License
 
